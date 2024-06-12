@@ -372,7 +372,6 @@
 
 
 
-
     
     "ticas": [
         {
@@ -385,7 +384,8 @@
             "tipo" : "pca",
             "turno" : "diurno",
             "observacion" : "n/a",
-            "funcionario" : "Admin"
+            "funcionario" : "Admin",
+            "estado" : false 
         },
           {
             "id":2,
@@ -397,7 +397,8 @@
             "tipo" : "pcs",
             "turno" : "diurno",
             "observacion" : "n/a",
-            "funcionario" : "Admin"
+            "funcionario" : "Admin",
+            "estado" : true
         },
           {
             "id":3,
@@ -409,7 +410,8 @@
             "tipo" : "pca",
             "turno" : "nocturno",
             "observacion" : "Podría ser falso",
-            "funcionario" : "Juan Perez"
+            "funcionario" : "Juan Perez",
+            "estado": true
         }
 
 
