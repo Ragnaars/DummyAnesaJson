@@ -1,0 +1,12 @@
+{
+  "name": "json-server-glitch-anesa",
+  "version": "1.0.0",
+  "description": "bd anesa dummy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
