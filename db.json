@@ -416,7 +416,27 @@
 
 
 
+    ],
+
+    "mep" : [
+        {
+            "id" : 1,
+            "unidad" : 1,
+            "folio" : 1232,
+            "fechaReg" : "2024-06-14",
+            "horaReg" : "13:04",
+            "nombre" :"Orlando Tobar",
+            "run" : "20713998-K",
+            "explotador" : "Jorge Perez", 
+            "vuelo" : "005d",
+            "destino" : "SCL",
+            "funcionario" : "Admin",
+            "numTel" : "981773764",
+            "detalle" : "",
+            "evidencia" : "",
+            "firma" : "",
+            "correo" : "orlando.tobar@dgac.gob.cl",
+            "estado" : true
+        }
     ]
-
-
 }
