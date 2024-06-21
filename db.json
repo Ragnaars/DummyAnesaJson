@@ -438,5 +438,23 @@
             "correo" : "orlando.tobar@dgac.gob.cl",
             "estado" : true
         }
-    ]
+    ],
+
+        "regAlPersoPertePca": [
+            {
+                "id" : "1",
+                "agrupacion" : 1,
+                "pca": "1",
+                "fechaReg" : "05-05-2024",
+                "horaReg": "13:04",
+                "pertenencias" : "b/m",
+                "observacionPerte" : "12A",
+                "regFisico" : "m",
+                "observacionRegFisico" : "12A",
+                "estado ": true
+            }
+        ]
+    
+    
+    
 }
