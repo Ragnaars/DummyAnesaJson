@@ -369,10 +369,26 @@
             "fechaReg": "2024-06-05"
         }
     ],
-
-
-
-    
+    "fisTica" :[
+        {
+            "id":1,
+            "nombreTica" : "Alexis Sanchez",
+            "nroTica" : 2131,
+            "unidad" : "1",
+            "fechaReg" : "2024-06-05",
+            "horaReg" : "13:04:32",
+            "funcionario" : "Avsec1"
+        },
+        {
+            "id":2,
+            "nombreTica" : "Ammy Farrel",
+            "nroTica" : 2132,
+            "unidad" : "2",
+            "fechaReg" : "2024-06-25",
+            "horaReg" : "13:02:00",
+            "funcionario" : "Avsec1"
+        }
+    ],
     "ticas": [
         {
             "id":1,
