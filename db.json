@@ -165,7 +165,7 @@
     "agrupacionesFisTicas" :[
         {
             "id" : 1,
-            "agrupacion" : "1",
+            "unidad" : "1",
             "fecha" : "2024-07-02",
             "horaIni" : "13:02",
             "horaFinal": "15:02",
