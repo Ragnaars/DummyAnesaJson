@@ -73,7 +73,7 @@
             "estado" : false
         }
     ],
-    "ticas": [
+    "ticasPCA": [
         {
             "id":1,
             "nombreTica" : "Pedro Perez",
@@ -86,32 +86,22 @@
             "observacion" : "n/a",
             "funcionario" : "Admin",
             "estado" : false 
-        },
-          {
-            "id":2,
-            "nombreTica" : "Camila Díaz",
-            "nroTica" : 213456,
-            "unidad" : 1,
-            "fechaReg" : "2024-06-04",
-            "agrupacion" : "Agrupacion 3",
+        }
+
+    ],
+     "ticasPCS": [
+        {
+            "id":1,
+            "nombreTica" : "Pedro PASCAL",
+            "nroTica" : 13223,
+            "unidad" : 2,
+            "fechaReg" : "2024-06-05",
+            "agrupacion" : "Agrupacion 1",
             "tipo" : "pcs",
             "turno" : "diurno",
             "observacion" : "n/a",
             "funcionario" : "Admin",
-            "estado" : true
-        },
-          {
-            "id":3,
-            "nombreTica" : "José Almuna",
-            "nroTica" : 123126,
-            "unidad" : 1,
-            "fechaReg" : "2024-06-07",
-            "agrupacion" : "Agrupacion 1",
-            "tipo" : "pca",
-            "turno" : "nocturno",
-            "observacion" : "Podría ser falso",
-            "funcionario" : "Juan Perez",
-            "estado": true
+            "estado" : false 
         }
 
 
